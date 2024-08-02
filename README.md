@@ -12,8 +12,8 @@ I am Devran Öncüt, a high school student in Turkey 🇹🇷
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ## 🖥️ Workspace Setup
-![i5-8th-gen](https://img.shields.io/badge/Ryzen-5_5600x-0071C5?style=for-the-badge&logo=amd&logoColor=white)
-![gtx-1060](https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![r5-5600x](https://img.shields.io/badge/Ryzen-5_5600x-0071C5?style=for-the-badge&logo=amd&logoColor=white)
+![rtx-3060](https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
