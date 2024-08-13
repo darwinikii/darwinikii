@@ -46,7 +46,7 @@ I am Devran Öncüt, a 18-year-old university student from Turkey 🇹🇷
     <span style="margin-left: 5px;">Fully Functional GUI for Script Injector Game Hack, Game Modding, Useful Scripts, TUI app</span>
 </div>
 
-<div style="display:flex; align-items:center; justify-content: center">
+<div align="center" style="display:flex; align-items:center; justify-content: center">
     <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
     <span style="margin-left: 5px;">btw i can center a div</span>
 </div>
