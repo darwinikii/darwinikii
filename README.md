@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-I am Devran Öncüt, an 18-year-old university student from Turkey 🇹🇷
+I am Devran Öncüt, an 17-year-old university student from Turkey 🇹🇷
 ## 🏅 Achievements
 **I will fill here soon**
 ## 🛠️Experiences
