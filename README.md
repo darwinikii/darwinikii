@@ -4,6 +4,7 @@
 I am Devran Öncüt, an 17-year-old university student from Turkey 🇹🇷
 ## 🏅 Achievements
 **I will fill here soon**
+<!--
 ## 🛠️Experiences
 
 <div style="display:flex; align-items:center;">
@@ -50,7 +51,7 @@ I am Devran Öncüt, an 17-year-old university student from Turkey 🇹🇷
     <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
     <span style="margin-left: 5px;">btw i can center a div</span>
 </div>
-
+-->
 
 ### Languages
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
